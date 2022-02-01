@@ -1,4 +1,3 @@
-cadastro-c
 Um projeto de programa que controla os cadastros de veículos em uma determinada concessionária.
 
 Suas funcionabilidades são:
