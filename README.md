@@ -1,4 +1,4 @@
-Um projeto de programa que controla os cadastros de veículos em uma determinada concessionária.
+Um projeto em C, que controla os cadastros de veículos em uma determinada concessionária.
 
 Suas funcionabilidades são:
 
